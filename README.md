@@ -3,10 +3,10 @@
 - Currently attending a full stack development bootcamp that concludes in July '22.
 - Learning HTML, CSS, JavaScript, MongoDB, PHP, SQL. 
 - Documenting my learning journey on Twitter and Linkedin. 
-- Some of the projects we are creating currently; webpages using HTML & CSS with a teeny tiny bit of JavaScript. 
+- Building webpages using HTML & CSS with a teeny tiny bit of JavaScript. 
 - You can reach me at rajea.bilal@gmail.com
 
-Fun Fact: I wear a face veil :)
+
 
 
 <!--
