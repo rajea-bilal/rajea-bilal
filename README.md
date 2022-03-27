@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- Currently attending a full stack development bootcamp that concludes in July '22.
-- Learning HTML, CSS, JavaScript, MongoDB, PHP, SQL. 
-- Documenting my learning journey on Twitter and Linkedin. 
-- Building webpages using HTML & CSS with a teeny tiny bit of JavaScript. 
-- You can reach me at rajea.bilal@gmail.com
+ 🔭 Currently attending a full stack development bootcamp - #100Devs that concludes in July '22.
+🌱 Learning HTML, CSS, JavaScript, MongoDB, PHP, SQL. 
+👯 Documenting my learning journey on Twitter and Linkedin. 
+💞️ I’m looking to collaborate on all sorts of creative and innovative projects. Let's chat!
+📫 How to reach me: rajea.bilal@gmail.com
 
 
 
