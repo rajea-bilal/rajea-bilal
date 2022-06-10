@@ -32,14 +32,6 @@
   
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajea-bilal&label=Profile%20views&color=0e75b6&style=flat" alt="rajea-bilal" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajea-bilal" alt="rajea-bilal" /></a> </p> -->
-
-<p align="left"> <a href="https://twitter.com/rajeabilal" target="blank"><img src="https://img.shields.io/twitter/follow/rajeabilal?logo=twitter&style=for-the-badge" alt="rajeabilal" /></a> </p>
-
-
 <!-- <h2 align="center">My Skill Set</h3>
 
 <div align="center">
