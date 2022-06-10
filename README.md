@@ -92,6 +92,8 @@
 
 </div>
 
+<!-- <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/tTJBvWo2I89A2ZN1qv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tTJBvWo2I89A2ZN1qv">via GIPHY</a></p> -->
+
 !-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
@@ -100,10 +102,10 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">Tic Tac Toe</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					<a href="https://ticcy-tac-toe.netlify.app/">
+						<img src="https://giphy.com/embed/tTJBvWo2I89A2ZN1qv" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
