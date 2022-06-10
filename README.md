@@ -6,7 +6,7 @@
 <p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
+<br>
 
 <!-- Custom streak -->
 
@@ -32,12 +32,13 @@
 </div>
 
 <br>
+<br>
   
 <div align="center">
   
 <h2>My Skill Set</h2>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="40%">
 
   <h3 align="center">Frontend</h3>
 
