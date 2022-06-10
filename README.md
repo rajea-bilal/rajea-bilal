@@ -105,7 +105,7 @@
           <h3 align="center">Tic-Tac-Toe</h3>
           <p align="center">
             <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A 2–player tic-tac-toe game with win and draw validation.
             </p>
@@ -117,7 +117,7 @@
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-            View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
+            View NASA's Astronomy Picture of the Day either by selecting a date.
             </p>
           </p>
         </td>
