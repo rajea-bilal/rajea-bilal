@@ -11,13 +11,18 @@
 
 <br>
  
-<div align="center">
-  
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-</div>
+<a href="https://jacobasper.com/">
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/asper_jacob">
+<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jacobasper191">
+<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://angel.co/u/20jasper">
+<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+</a>  
 
 
 
