@@ -3,7 +3,7 @@
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
 
-<p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
+<p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything web development</p>
 
 
 <br>
