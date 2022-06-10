@@ -113,16 +113,18 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/interview-question-api'>
+						<a href='https://github.com/rajea-bilal/tic-tac-toe'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
 						<a href="https://ticcy-tac-toe.netlify.app/ ">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=aa593e"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
+				
+				
 			<!--project 2 -->
 			<td width="50%">
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
