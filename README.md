@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+<br>
   
 <div align="center">
   
@@ -36,7 +38,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-### Frontend
+  <h3>Frontend</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />  
@@ -47,7 +49,7 @@
 
 </td><td valign="top" width="40%">
 
-### Backend
+  <h3>Backend</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="30" />  
