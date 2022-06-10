@@ -5,7 +5,7 @@
 
 <p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
 
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"/>
+<img src="https://img.shields.io/badge/-PORTFOLIO-%23BD4427"/>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
 
