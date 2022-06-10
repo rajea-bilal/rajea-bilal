@@ -7,7 +7,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
 
-<p><img align="center"[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2)](https://git.io/streak-stats)/><p>
+[![GitHub Streak](<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2")](https://git.io/streak-stats)
 
 
 
