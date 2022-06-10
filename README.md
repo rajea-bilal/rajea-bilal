@@ -56,10 +56,10 @@
 ### Frontend
 
 <div align="center">  
-<img style="margin: 5px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="50" />  
-<img style="margin: 5px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50" />  
-<img style="margin: 5px" src="[svg-icons/HTML5.svg](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="HTML5" height="50" />  
-<img style="margin: 5px" src="[svg-icons/javascript.svg](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" alt="React" height="50" />   
+<img style="margin: 1px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="50" />  
+<img style="margin: 1px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50" />  
+<img style="margin: 1px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="JavaScript" height="50" />  
+<img style="margin: 1px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" alt="React" height="50" />   
 </div>
 
 </td><td valign="top" width="50%">
