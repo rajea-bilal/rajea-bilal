@@ -1,6 +1,6 @@
 
 [![MasterHead](https://github.com/rajea-bilal/rajea-bilal/blob/main/Class%20of%202021%20BS%20Business%20Administration.png)](http://rajea-bilal.netlify.app)
-<h1 align="center">Hi there 👋 Rajea</h1>
+<h1 align="center">👋 This is Rajea - full stack software engineer</h1>
 <h3 align="center">I'm a full stack software engineer based in Birmingham, England. I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajea-bilal&label=Profile%20views&color=0e75b6&style=flat" alt="rajea-bilal" /> </p>
