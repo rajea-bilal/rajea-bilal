@@ -3,9 +3,11 @@
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
 
-<p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
+<p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2)](https://git.io/streak-stats)
 
 
 
