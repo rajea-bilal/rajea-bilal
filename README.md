@@ -126,7 +126,7 @@
         <td width="50%">
           <h3 align="center">Hair Stylist Client Website</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
+            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://mcudb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a></span>
             <p align="center">
               View a countdown to the next MCU release, then choose an MCU movie or series to view more details.
