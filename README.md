@@ -7,16 +7,17 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
 
+### Custom Streak
+
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2">
 </div>
 
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2)](https://git.io/streak-stats) -->
-
-
 <br>
- 
+
+### Buttons Top
+
 <div align="center"> 
 <a href="https://rajea-bilal.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
@@ -50,5 +51,23 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajea-bilal&show_icons=true&locale=en&layout=compact" alt="rajea-bilal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajea-bilal&show_icons=true&locale=en" alt="rajea-bilal" /></p>
+
+<div align="center">
+
+## Connect with me
+
+<a href="https://jacobasper.com/">
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/asper_jacob">
+<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jacobasper191">
+<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+<a href="https://angel.co/u/20jasper">
+<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 
