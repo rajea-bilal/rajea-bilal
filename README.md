@@ -21,7 +21,7 @@
 
 <div align="center"> 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Portfolio-d58e78?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rajea-bilal">
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
