@@ -100,7 +100,7 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">Tic-tac-Toe</h2>
 				<div align="center" > 
 					<a href="https://ticcy-tac-toe.netlify.app/">
 						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="An app that generates random interview questions" />
@@ -110,11 +110,11 @@
 					<p>
                         <!--repo --> 
 						<a href='https://github.com/20jasper/interview-question-api'>
-							<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40"/>
+							<img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40"/>
 						</a>  
                         <!--live site --> 
 						<a href="https://ticcy-tac-toe.netlify.app/">
-							<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40"/>
+							<img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
