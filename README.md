@@ -7,7 +7,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
 
-### Custom Streak
+<!-- Custom streak -->
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2">
@@ -16,7 +16,7 @@
 
 <br>
 
-### Buttons Top
+<!-- Buttons Top -->
 
 <div align="center"> 
 <a href="https://rajea-bilal.netlify.app/">
@@ -38,6 +38,13 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajea-bilal" alt="rajea-bilal" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/rajeabilal" target="blank"><img src="https://img.shields.io/twitter/follow/rajeabilal?logo=twitter&style=for-the-badge" alt="rajeabilal" /></a> </p>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
