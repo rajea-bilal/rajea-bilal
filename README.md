@@ -99,7 +99,7 @@
 	<table>
 		<tr>
 			<!--project 1 -->
-			<td width="50%">
+			<td width="30%">
 				<h3 align="center" color="white">Tic-tac-Toe</h2>
 				<div align="center" > 
 					<a href="https://ticcy-tac-toe.netlify.app/">
