@@ -77,7 +77,7 @@
 ## Connect with me
 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px" background:"yellow" />
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="background:yellow;" />
 </a>
 <a href="https://twitter.com/rajeabilal">
 <img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
