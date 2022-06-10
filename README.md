@@ -22,13 +22,13 @@
 
 <div align="center"> 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-PORTFOLIO-%23BD4427?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rajea-bilal">
-<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-TWITTER-%23BD4427?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jacobasper191">
-<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-LINKEDIN-%23BD4427?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
