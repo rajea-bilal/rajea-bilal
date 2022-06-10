@@ -68,16 +68,16 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajea-bilal&show_icons=true&locale=en&layout=compact" alt="rajea-bilal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajea-bilal&show_icons=true&locale=en" alt="rajea-bilal" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajea-bilal&show_icons=true&locale=en&layout=compact" alt="rajea-bilal" /></p> -->
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajea-bilal&show_icons=true&locale=en" alt="rajea-bilal" /></p> -->
 
 <div align="center">
 
 ## Connect with me
 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px" background:"yellow";" />
+<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px" background:"yellow" />
 </a>
 <a href="https://twitter.com/rajeabilal">
 <img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
