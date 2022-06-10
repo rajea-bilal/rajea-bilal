@@ -62,12 +62,12 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" alt="React" height="30" />   
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 ### Backend
 
 <div align="center">  
-<img style="margin: 1px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="30" />  
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="30" />  
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" alt="Node.js" height="30" />  
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" alt="Git" height="30" />  
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="JavaScript" height="30" />  
