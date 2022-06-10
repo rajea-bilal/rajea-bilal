@@ -30,18 +30,9 @@
 </a>  
 </div>
   
-
-
-<!-- <h2 align="center">My Skill Set</h3>
-
 <div align="center">
-  <h3>Frontend</h4>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</div> -->
-
-## My Skill Set
+  
+<h2>My Skill Set</h2>
 
 <table><tr><td valign="top" width="50%">
 
@@ -68,6 +59,9 @@
 </div>
 
 </td></tr></table>
+
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
