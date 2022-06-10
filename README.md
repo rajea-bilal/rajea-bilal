@@ -122,12 +122,11 @@
 				
 				
 			<!--project 2 -->
-				
 			<td width="50%">
-				<h3 align="center" color="white">NASA Astronomy Picture of The Day</h2>
+				<h3 align="center" color="white">COVID–19 Tracker</h2>
 				<div align="center" > 
-					<a href="https://nasa-images-daily.netlify.app/">
-						<img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="a site tracking COVID-19 statistics" height="200px" />
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://github.com/20jasper/covid-tracker/raw/main/CovidTracker.jpg" alt="a site tracking COVID-19 statistics" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -156,7 +155,7 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/rajea-bilal/tic-tac-toe'>
+						<a href='https://github.com/20jasper/tic-tac-toe'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
@@ -194,7 +193,4 @@
 
 ---
 
-
-
-
-
+<br>
