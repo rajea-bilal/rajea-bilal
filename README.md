@@ -40,6 +40,10 @@
 <p align="left"> <a href="https://twitter.com/rajeabilal" target="blank"><img src="https://img.shields.io/twitter/follow/rajeabilal?logo=twitter&style=for-the-badge" alt="rajeabilal" /></a> </p>
 
 
+<h3 align="center">My Skill Set</h3>
+<h4>Front-end</h4>
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
