@@ -5,7 +5,6 @@
 
 <p align="center">I'm currently learning and building with HTML, CSS, JavaScript & the MERN stack at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!</p>
 
-<img src="https://img.shields.io/badge/-PORTFOLIO-%23BD4427"/>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajea-bilal&" alt="rajea-bilal" /></p> -->
 
@@ -22,13 +21,13 @@
 
 <div align="center"> 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/-PORTFOLIO-%23BD4427?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-PORTFOLIO-%2BD4427?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rajea-bilal">
-<img src="https://img.shields.io/badge/-TWITTER-%23BD4427?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-TWITTER-%2BD4427?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jacobasper191">
-<img src="https://img.shields.io/badge/-LINKEDIN-%23BD4427?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-LINKEDIN-%2BD4427?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
