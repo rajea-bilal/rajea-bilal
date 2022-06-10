@@ -92,7 +92,9 @@
 
 </div>
 
-<!-- <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/tTJBvWo2I89A2ZN1qv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tTJBvWo2I89A2ZN1qv">via GIPHY</a></p> -->
+
+
+https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif
 
 <!-- PROJECTS -->
 
@@ -101,11 +103,11 @@
 	<table>
 		<tr>
 			<!--project 1 -->
-			<td width="50%">
+			<td width="40%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
 					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif" alt="An app that generates random interview questions" />
+						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
@@ -121,8 +123,6 @@
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
 				</div>
-				
-				
 			<!--project 2 -->
 			<td width="50%">
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
@@ -191,8 +191,3 @@
 				</div>
 	</table>
 </div>
-<br />
-
----
-
-<br>
