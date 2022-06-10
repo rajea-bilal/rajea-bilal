@@ -153,7 +153,7 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/20jasper/tic-tac-toe'>
+						<a href='https://github.com/rajea-bilal/tic-tac-toe'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
