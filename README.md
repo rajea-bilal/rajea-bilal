@@ -117,7 +117,7 @@
 							<img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
 			<!--project 2 -->
 			<td width="50%">
