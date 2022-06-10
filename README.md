@@ -38,7 +38,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-  <h3>Frontend</h3>
+  <h3 align="center">Frontend</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />  
