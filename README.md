@@ -40,14 +40,43 @@
 <p align="left"> <a href="https://twitter.com/rajeabilal" target="blank"><img src="https://img.shields.io/twitter/follow/rajeabilal?logo=twitter&style=for-the-badge" alt="rajeabilal" /></a> </p>
 
 
-<h3 align="center">My Skill Set</h3>
+<!-- <h2 align="center">My Skill Set</h3>
 
 <div align="center">
-  <h4>Frontend</h4>
+  <h3>Frontend</h4>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</div> -->
+
+## My Skill Set
+
+<table><tr><td valign="top" width="50%">
+
+### Frontend
+
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"" height="75" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="[svg-icons/HTML5.svg](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="svg-icons/D3js.svg" alt="D3.js" height="75" />  
 </div>
+
+</td><td valign="top" width="50%">
+
+### Backend
+
+<div align="center">  
+<img style="margin: 10px" src="svg-icons/mongoDB.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="svg-icons/nodejs.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="svg-icons/git.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="svg-icons/javascript.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="svg-icons/express.svg" alt="Express.js" height="75" />
+<img style="margin: 10px" src="svg-icons/postgreSQL.svg" alt="PostgreSQL" height="75" />  
+</div>
+
+</td></tr></table>
 
 
 <h3 align="left">Connect with me:</h3>
