@@ -9,6 +9,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2)](https://git.io/streak-stats)
 
+<br>
+
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajea-bilal&label=Profile%20views&color=0e75b6&style=flat" alt="rajea-bilal" /> </p>
