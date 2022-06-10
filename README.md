@@ -24,10 +24,10 @@
 <img src="https://img.shields.io/badge/-Portfolio-d58e78?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rajea-bilal">
-<img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Twitter-d58e78?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jacobasper191">
-<img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Linkedin-d58e78?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
 
@@ -80,13 +80,13 @@
 ## Connect with me
 
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="background:yellow;" />
+<img src="https://img.shields.io/badge/-Portfolio-d58e78?style=for-the-badge&?logoWidth=40" alt="Portfolio Site" style="background:yellow;" />
 </a>
 <a href="https://twitter.com/rajeabilal">
-<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Twitter-d58e78?style=for-the-badge&?logoWidth=40" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/rajea-bilal-7a3612230/">
-<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Twitter-d58e78?style=for-the-badge&?logoWidth=40" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 
 </div>
