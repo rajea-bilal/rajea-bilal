@@ -103,48 +103,46 @@
 	<table>
 		<tr>
 			<!--project 1 -->
-			<td width="40%">
+			<td width="50%">
 				<h3 align="center" color="white">Tic-Tac-Toe</h2>
 				<div align="center" > 
 					<a href="https://ticcy-tac-toe.netlify.app/">
-						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="An animation of a tic tac toe game" />
+						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="An app that generates random interview questions" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href="https://ticcy-tac-toe.netlify.app/">
-							<img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=30"/>
+						<a href='https://github.com/20jasper/interview-question-api'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://ticcy-tac-toe.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=aa593e"/>
+						<a href="https://ticcy-tac-toe.netlify.app/ ">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
-				
-				
 			<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">NASA's Astronomy Picture of the Day</h2>
+				<h3 align="center" color="white">COVID–19 Tracker</h2>
 				<div align="center" > 
-					<a href="https://nasa-images-daily.netlify.app/">
-						<img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="a site tracking COVID-19 statistics" height="200px" />
+					<a href="https://coronavirusworlddata.netlify.app/">
+						<img src="https://github.com/20jasper/covid-tracker/raw/main/CovidTracker.jpg" alt="a site tracking COVID-19 statistics" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href="https://nasa-images-daily.netlify.app/">
+						<a href='https://github.com/20jasper/covid-tracker'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://nasa-images-daily.netlify.app/">
+						<a href="https://coronavirusworlddata.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - View NASA's Astronomy Picture of the Day either by selecting a date</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
 				</div>
 			</td>
 		<tr>
@@ -193,3 +191,8 @@
 				</div>
 	</table>
 </div>
+<br />
+
+---
+
+<br>
