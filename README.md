@@ -107,7 +107,7 @@
             <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://full-stack-interview-prep.up.railway.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              A full stack web dev interview flashcard app containing 150+ questions covering a large range of behavioral and technical questions.
+              A 2–player tic-tac-toe game with win and draw validation.
             </p>
           </p>
         </td>
@@ -117,7 +117,7 @@
             <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/bytesbybianca/sentiment-analysis" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=9A5BD7" alt="button to repository" height ="25px"></a> <a href="https://textanalysis.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-9A5BD7?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Use one of 12 APIs to generate text or input your own to be analyzed and identified as positive, negative, or neutral.
+            View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
           </p>
         </td>
