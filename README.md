@@ -49,7 +49,7 @@
 
 </td><td valign="top" width="40%">
 
-  <h3>Backend</h3>
+  <h3 align="center">Backend</h3>
 
 <div align="center">  
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="30" />  
