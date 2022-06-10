@@ -13,6 +13,8 @@
 
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
 
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajea-bilal&label=Profile%20views&color=0e75b6&style=flat" alt="rajea-bilal" /> </p>
 
