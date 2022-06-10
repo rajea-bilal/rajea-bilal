@@ -92,10 +92,6 @@
 
 </div>
 
-
-
-
-
 <!-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
@@ -104,7 +100,7 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Tic-Tac-Toe</h2>
+				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
 					<a href="https://ticcy-tac-toe.netlify.app/">
 						<img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="An app that generates random interview questions" />
@@ -113,18 +109,16 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/rajea-bilal/tic-tac-toe'>
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						<a href='https://github.com/20jasper/interview-question-api'>
+							<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://ticcy-tac-toe.netlify.app/ ">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=aa593e"/>
+						<a href="https://ticcy-tac-toe.netlify.app/">
+							<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=40"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
+					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
 				</div>
-				
-				
 			<!--project 2 -->
 			<td width="50%">
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
@@ -197,4 +191,7 @@
 
 ---
 
-<br>
+
+
+
+
