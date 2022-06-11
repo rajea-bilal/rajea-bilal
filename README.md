@@ -26,7 +26,7 @@
 <a href="https://twitter.com/rajea-bilal">
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jacobasper191">
+<a href="https://www.linkedin.com/in/rajea-bilal-7a3612230/">
 <img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
@@ -126,8 +126,8 @@
         <td width="50%">
           <h3 align="center">Hair Stylist Client Website</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://george-barbers.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
+            <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://george-barbers.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Worked on a client website to provide a web presence for their hairstyling business. 
             </p>
@@ -136,8 +136,8 @@
         <td width="50%">
           <h3 align="center">Hair Stylist Client Website</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/LpV9LfuspToXQnVhfh/giphy.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/rajea-bilal/george-barbers" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://george-barbers.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
             </p>
