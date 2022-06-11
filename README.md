@@ -87,7 +87,7 @@
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/rajea-bilal-7a3612230/">
-<img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 
 </div>
