@@ -29,7 +29,7 @@
 <a href="https://twitter.com/rajeabilal">
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/rajea-bilal-7a3612230/">
+<a href="https://www.linkedin.com/in/rajea-bilal/">
 <img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 </div>
@@ -89,7 +89,7 @@
 <a href="https://twitter.com/rajeabilal">
 <img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/rajea-bilal-7a3612230/">
+<a href="https://www.linkedin.com/in/rajea-bilal/">
 <img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 
@@ -131,7 +131,7 @@
         <td width="50%" height="70%">
           <h3 align="center">Tic-Tac-Toe</h3>
           <p align="center">
-            <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif" alt="project example"/> </a>
+            <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif" height="30px" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="http://ticcy-tac-toe.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Tech: HTML | CSS | JavaScript <br><br>
