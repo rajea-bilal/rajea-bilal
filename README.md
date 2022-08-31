@@ -107,7 +107,7 @@
         <td width="50%">
           <h3 align="center">Tic-Tac-Toe</h3>
           <p align="center">
-            <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif?raw=true" alt="project example"/> </a>
+            <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/uarFQ4KBArIyugn7xd/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://ticcy-tac-toe.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A 2–player tic-tac-toe game with win and draw validation.
