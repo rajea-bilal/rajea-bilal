@@ -110,7 +110,7 @@
             <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/uarFQ4KBArIyugn7xd/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="http://inspirational-quote-crud.herokuapp.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Tech: Node JS | EJS | Express | MongodDB
+              Tech: Node JS | EJS | Express | MongodDB <br>
               This app incorporates CRUD functionality and allows users to add quotes by their favourite authors to the page. Users can also show their appreciation for quotes by liking them.
             </p>
           </p>
