@@ -139,8 +139,8 @@
             </p>
           </p>
         </td>
-        <td width="50%">
-          <h3 align="center">Hair Stylist Client Website</h3>
+        <td width="50%" height="50%">
+          <h3 align="center">Wonders In the Sky - NASA</h3>
           <p align="center">
             <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://nasa-images-daily.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
