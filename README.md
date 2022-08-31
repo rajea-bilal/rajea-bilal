@@ -128,7 +128,7 @@
         </td>
       </tr>
       <tr>
-        <td width="50%" height="50%">
+        <td width="50%" height="70%">
           <h3 align="center">Tic-Tac-Toe</h3>
           <p align="center">
             <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif" alt="project example"/> </a>
