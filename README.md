@@ -110,7 +110,7 @@
             <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/uarFQ4KBArIyugn7xd/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="http://inspirational-quote-crud.herokuapp.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Tech: Node JS | EJS | Express | MongodDB <br>
+              Tech: Node JS | EJS | Express | MongodDB <br><br>
               This app incorporates CRUD functionality and allows users to add quotes by their favourite authors to the page. Users can also show their appreciation for quotes by liking them.
             </p>
           </p>
@@ -121,7 +121,8 @@
             <a href="[https://media.giphy.com/media/7C0yceS4OgEe7x3ju3/giphy.gif](https://github.com/rajea-bilal/todo-mvc)" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/7C0yceS4OgEe7x3ju3/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://nasa-images-daily.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-            Tech: Node JS | EJS | Express | MongodDB
+            Tech: Node JS | EJS | Express | MongodDB <br><br>
+              We can't have enough todo apps in the world. This is my rendition of it :) Habitlty allows users to input their daily tasks in a visually pleasing interface, keeping a track of their activities.
             </p>
           </p>
         </td>
@@ -133,7 +134,8 @@
             <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tTJBvWo2I89A2ZN1qv/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/rajea-bilal/tic-tac-toe" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="http://ticcy-tac-toe.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
-              Tech: HTML | CSS | JavaScript
+              Tech: HTML | CSS | JavaScript <br><br>
+              A 2-player tic-tac-toe game with win and draw validation.
             </p>
           </p>
         </td>
