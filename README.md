@@ -32,6 +32,9 @@
 <a href="https://www.linkedin.com/in/rajea-bilal/">
 <img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
+<a href="https://angel.co/u/rajea-bilal">
+<img src="https://img.shields.io/badge/-AngelList-aa593e?style=for-the-badge&?logoWidth=50" alt="AngelList" style="margin-bottom: 5px;" />
+</a> 
 </div>
 
 <br>
