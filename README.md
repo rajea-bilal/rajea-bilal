@@ -122,7 +122,7 @@
           <h3 align="center">Habitly - Track your day</h3>
           <p align="center">
             <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/7C0yceS4OgEe7x3ju3/giphy.gif" height="260px" alt="project example"/> </a>
-            <span> <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://nasa-images-daily.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://habitly.up.railway.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
             <p align="center">
             Tech: Node JS | EJS | Express | MongodDB <br><br>
               We can't have enough todo apps in the world. This is my rendition of it :) Habitlty allows users to input their daily tasks in a visually pleasing interface, keeping a track of their activities.
