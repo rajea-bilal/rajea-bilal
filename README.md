@@ -1,5 +1,6 @@
 
-[![MasterHead](https://github.com/rajea-bilal/rajea-bilal/blob/main/Class%20of%202021%20BS%20Business%20Administration.png)](http://rajea-bilal.netlify.app)
+
+[![MasterHead](https://user-images.githubusercontent.com/93056794/211198801-aba82e2d-7d3e-4029-9828-8a52e9ebc6a8.png)](http://rajea-bilal.netlify.app)
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
 
