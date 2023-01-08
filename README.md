@@ -11,7 +11,7 @@
 <!-- Custom streak -->
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=415230&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rajea-bilal&date_format=M%20j%5B%2C%20Y%5D&background=1A4042&fire=B85236&ring=B85236&currStreakLabel=D4C2B2&dates=D4C2B2&sideNums=D4C2B2&sideLabels=D4C2B2&stroke=D4C2B2&currStreakNum=D4C2B2">
 </div>
 
 
