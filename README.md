@@ -89,30 +89,6 @@
 <div align="center">
   <table>
       <tr>
-        <td width="50%">
-          <h3 align="center">Inspirational-Quotes App</h3>
-          <p align="center">
-            <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/uarFQ4KBArIyugn7xd/giphy.gif" height="280px" alt="project example"/> </a>
-            <span> <a href="https://github.com/rajea-bilal/inspirational-quote-CRUD" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="http://inspirational-quote-crud.herokuapp.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              Tech: Node JS | EJS | Express | MongodDB <br><br>
-              This app incorporates CRUD functionality and allows users to add quotes by their favourite authors to the page. Users can also show their appreciation for quotes by liking them.
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">Habitly - Track your day</h3>
-          <p align="center">
-            <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/7C0yceS4OgEe7x3ju3/giphy.gif" height="260px" alt="project example"/> </a>
-            <span> <a href="https://github.com/rajea-bilal/todo-mvc" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://habitly.up.railway.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-            Tech: Node JS | EJS | Express | MongodDB <br><br>
-              We can't have enough todo apps in the world. This is my rendition of it :) Habitlty allows users to input their daily tasks in a visually pleasing interface, keeping a track of their activities.
-            </p>
-          </p>
-        </td>
-      </tr>
-      <tr>
         <td width="50%" height="70%">
           <h3 align="center">Tic-Tac-Toe</h3>
           <p align="center">
