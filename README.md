@@ -1,13 +1,13 @@
 
 
-[![MasterHead](https://user-images.githubusercontent.com/93056794/211198801-aba82e2d-7d3e-4029-9828-8a52e9ebc6a8.png)](http://rajea-bilal.netlify.app)
+
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
 
-<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React . Feel free to stay awhile and browse through my latest projects.</p>
 
 <p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">You can contact me at rajea.bilal@gmail.com.</p>
+<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React. Feel free to stay awhile and browse through my latest projects.</p>
+<p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
 
 
 
