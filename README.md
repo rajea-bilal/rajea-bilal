@@ -1,7 +1,7 @@
 
 
 
-<!-- <h1 align="left" font-size="18px">👋 This is Rajea - full stack software engineer</h1> -->
+<!-- <h1 align="left" style="font-size:20px; font-weight:700">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 I'm Rajea, fullstack develeoper.</h3>
 
 <hr>
