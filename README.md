@@ -4,9 +4,9 @@
 
 <h1 align="left">Hi 👋 I'm Rajea, fullstack develeoper.</h1>
 <br>
-<p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React. Feel free to stay awhile and browse through my latest projects.</p>
-<p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
+<span align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</span>
+<span align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React. Feel free to stay awhile and browse through my latest projects.</span>
+<span align="left">:email: You can contact me at rajea.bilal@gmail.com.</span>
 
 
 
