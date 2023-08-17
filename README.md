@@ -2,7 +2,7 @@
 
 
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
-<h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
+<h3 align="center">Hi 👋 I'm Rajea, fullstack develeoper.</h3>
 
 <hr>
 <p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
