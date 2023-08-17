@@ -1,7 +1,7 @@
 
 
 
-<!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
+<!-- <h1 align="left" font-size="18px">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 I'm Rajea, fullstack develeoper.</h3>
 
 <hr>
@@ -15,7 +15,7 @@
 
 <!-- Buttons Top -->
 
-<div align="center"> 
+<div align="left"> 
 <a href="mailto:rajea.bilal@gmail.com">
 <img src="https://img.shields.io/badge/-Email Me-aa593e?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
 </a>
