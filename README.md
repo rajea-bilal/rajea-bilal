@@ -4,9 +4,11 @@
 <!-- <h1 align="center">👋 This is Rajea - full stack software engineer</h1> -->
 <h3 align="center">Hi 👋 This is Rajea, a full stack software engineer based in Birmingham, England.</h3>
 
-<p align="center">I'm currently learning and building with NodeJS, Express and MongoDB at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything related to web development.</p>
+<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React . Feel free to stay awhile and browse through my latest projects.</p>
 
-<p align="center">:earth_americas:I'm based in Birmingham, United Kindgdom.<p></p>
+<p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
+<p align="left">You can contact me at rajea.bilal@gmail.com.</p>
+
 
 
 <br>
