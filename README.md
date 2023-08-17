@@ -1,8 +1,8 @@
 
 
 
-<!-- <h1 align="left" style="font-size:20px; font-weight:700">👋 This is Rajea - full stack software engineer</h1> -->
-<h3 align="center">Hi 👋 I'm Rajea, fullstack develeoper.</h3>
+
+<h1 align="center">Hi 👋 I'm Rajea, fullstack develeoper.</h1>
 
 <hr>
 <p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
