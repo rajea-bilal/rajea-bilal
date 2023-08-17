@@ -6,6 +6,8 @@
 
 <p align="center">I'm currently learning and building with NodeJS, Express and MongoDB at 100Devs Agency. Feel free to stay awhile and browse through my latest projects. Don't hesitate to reach out if you would like to hire me or collaborate on anything related to web development.</p>
 
+<p align="center">:earth_americas:I'm based in Birmingham, United Kindgdom.<p></p>
+
 
 <br>
 
