@@ -100,8 +100,7 @@
             </p>
           </p>
         </td>
-    
-        <td width="50%" height="50%">
+    <td width="50%" height="50%">
           <h3 align="center">Wonders In the Sky - NASA</h3>
           <p align="center">
             <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif" height="280px" alt="project example"/> </a>
@@ -112,7 +111,6 @@
             </p>
           </p>
         </td>
-        
-      </tr>
+        </tr>
   </table>
 </div>
