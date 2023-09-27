@@ -92,7 +92,7 @@
         <td width="50%" height="50%">
           <h3 align="center">History Trivia</h3>
           <p align="center">
-            <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxhZzhqN2c3Y215Y3R4bXBsdnU0ZmlpaTJjNWZjMGNrOGxoZnE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2qfy4FENpCFXhSPj8/giphy.gif" height="280px" alt="project example"/> </a><br>
+            <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxhZzhqN2c3Y215Y3R4bXBsdnU0ZmlpaTJjNWZjMGNrOGxoZnE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2qfy4FENpCFXhSPj8/giphy.gif" height="280px" width="300px" alt="project example"/> </a><br>
             <span> <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://history-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Tech: HTML | CSS | JavaScript <br><br>
