@@ -96,10 +96,12 @@
             <span> <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height ="25px"></a> <a href="https://history-trivia.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px"></a></span>
             <p align="center">
               Tech: HTML | CSS | JavaScript <br><br>
-              A history trivia app build around the Open Trivia API
+              A history trivia app built around the Open Trivia API
             </p>
           </p>
         </td>
+  </tr>
+    <tr>
     <td width="50%" height="50%">
           <h3 align="center">Wonders In the Sky - NASA</h3>
           <p align="center">
