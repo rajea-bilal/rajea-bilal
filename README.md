@@ -100,8 +100,6 @@
             </p>
           </p>
         </td>
-  </tr>
-    <tr>
     <td width="50%" height="50%">
           <h3 align="center">Wonders In the Sky - NASA</h3>
           <p align="center">
