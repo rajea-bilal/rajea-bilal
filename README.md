@@ -85,7 +85,7 @@
 
 <!-- PROJECTS -->
 
-
+<h2 align="center">Projects</h2>
 <div align="center">
   <table>
       <tr>
