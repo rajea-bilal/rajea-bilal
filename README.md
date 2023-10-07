@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋 I'm Rajea, a fullstack developer.</h1>
 <br>
 <p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, MongoDB & React. Feel free to stay awhile and browse through my latest projects.</p>
+<p align="left">:rocket: I'm currently learning and building with NodeJS, Express, PostgreSQL & React. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
 <p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
 
