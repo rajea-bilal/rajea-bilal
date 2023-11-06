@@ -66,7 +66,7 @@
 
 </td>
 
-<td valign="center" width="30%">
+<td valign="top" width="30%">
 
   <h3 align="center">Testing</h3>
 
