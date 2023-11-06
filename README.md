@@ -121,7 +121,28 @@
 <div align="center">
   <table style="background-color: black;">
     <tr>
-      <td width="30%" height="40%" style="background-color: black;">
+        <td width="30%" height="50%" style="background-color: black;">
+        <h3 align="center">Reader's Radar</h3>
+        <p align="center">
+          <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
+           <img width="911" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/4575aa3b-77b1-4159-a4de-501bb5374672">
+
+</a><br>
+          <span>
+            <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
+            </a>
+            <a href="https://book-app-omega.vercel.app/" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
+            </a>
+          </span>
+        </p>
+        <p align="center">
+          Tech: React <br><br>
+          Built a fun React project around Books. Discover Bestsellers with Ease: Explore, Search, and Enjoy with the NY Bestseller API Integration!
+        </p>
+      </td>
+<td width="30%" height="40%" style="background-color: black;">
         <h3 align="center">History Trivia</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
@@ -141,7 +162,9 @@
           A history trivia app built around the Open Trivia API
         </p>
       </td>
-      <td width="30%" height="50%">
+      </tr>
+    <tr>
+       <td width="30%" height="50%">
         <h3 align="center">Wonders In the Sky - NASA</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
@@ -159,29 +182,6 @@
         <p align="center">
           Tech: HTML | CSS | JavaScript <br><br>
           Worked on a fun project using NASA Image APIs to showcase magnificent images from around the universe. Click to choose a date and see what's going on in the skies :)
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="30%" height="50%" style="background-color: black;">
-        <h3 align="center">Reader's Radar</h3>
-        <p align="center">
-          <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-           <img width="911" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/4575aa3b-77b1-4159-a4de-501bb5374672">
-
-</a><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
-            </a>
-            <a href="https://book-app-omega.vercel.app/" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
-        </p>
-        <p align="center">
-          Tech: React <br><br>
-          Built a fun React project around Books. Discover Bestsellers with Ease: Explore, Search, and Enjoy with the NY Bestseller API Integration!
         </p>
       </td>
     </tr>
