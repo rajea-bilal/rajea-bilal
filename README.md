@@ -126,8 +126,7 @@
         <p align="center">
           <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
            <img width="911" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/c3353aa0-1a36-453a-9541-e6a349ae019b">
-
-          </a><br>
+</a><br>
           <span>
             <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
