@@ -20,16 +20,16 @@
 <img src="https://img.shields.io/badge/-Email Me-CD853F?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
 </a>
 <a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Portfolio-CD853F?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rajeabilal">
-<img src="https://img.shields.io/badge/-Twitter-aa593e?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Twitter-CD853F?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/rajea-bilal/">
-<img src="https://img.shields.io/badge/-Linkedin-aa593e?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Linkedin-CD853F?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://angel.co/u/rajea-bilal">
-<img src="https://img.shields.io/badge/-AngelList-aa593e?style=for-the-badge&?logoWidth=50" alt="AngelList" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-AngelList-CD853F?style=for-the-badge&?logoWidth=50" alt="AngelList" style="margin-bottom: 5px;" />
 </a> 
 </div>
 
