@@ -5,7 +5,7 @@
 <h1 align="left" style="color: #CD853F;">Hi 👋 I'm Rajea, a fullstack developer.</h1>
 <br>
 <p align="left">:earth_americas: I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">🌱 I’m currently learning React.js & Next.js. Feel free to stay awhile and browse through my latest projects.</p>
+<p align="left">🌱 I’m currently learning React & Next. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
 <p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
 
@@ -121,7 +121,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" height="50%">
+      <td width="33%" height="50%">
         <h3 align="center">History Trivia</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
@@ -141,7 +141,7 @@
           A history trivia app built around the Open Trivia API
         </p>
       </td>
-      <td width="50%" height="50%">
+      <td width="33%" height="50%">
         <h3 align="center">Wonders In the Sky - NASA</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
@@ -163,7 +163,7 @@
       </td>
     </tr>
     <tr>
-            <td width="50%" height="50%">
+            <td width="33%" height="50%">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
