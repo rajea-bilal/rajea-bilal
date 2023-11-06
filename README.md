@@ -162,8 +162,7 @@
         </p>
       </td>
     </tr>
-    <tr>
-            <td width="30%" height="50%">
+            <td width="30%" height="50%" style="background-color: black;">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
