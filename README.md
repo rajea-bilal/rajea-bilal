@@ -74,7 +74,19 @@
  
 <img src="https://img.shields.io/badge/vitest-test?style=for-the-badge&logo=vitest&color=beige" alt="Vitest" height="30" />
 <img src="https://img.shields.io/badge/playwright-test?style=for-the-badge&logo=playwright&color=red" alt="Express.js" height="30" />
-  
+
+
+</div>
+
+</td>
+<td valign="top" width="30%">
+
+  <h3 align="center">Code Practices</h3>
+
+<div align="left">  
+<img src="https://img.shields.io/badge/agile-methodology-test?style=for-the-badge&color=olive" alt="agile-methodology" height="30" />  
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" alt="Node.js" height="30" />  
+
 </div>
 
 </td>
