@@ -121,7 +121,7 @@
 <div align="center">
   <table style="background-color: black;">
     <tr>
-      <td width="30%" height="50%" style="background-color: black;">
+      <td width="30%" height="40%" style="background-color: black;">
         <h3 align="center">History Trivia</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
