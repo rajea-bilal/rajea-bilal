@@ -88,7 +88,7 @@
 
 <div align="left">  
 <img src="https://img.shields.io/badge/agile-methodology-test?style=for-the-badge&color=olive" alt="agile-methodology" height="30" />  
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" alt="Node.js" height="30" />  
+<img src="https://img.shields.io/badge/teamwork-test?style=for-the-badge&color=yellow" alt="teamwork" height="30" />  
 
 </div>
 
