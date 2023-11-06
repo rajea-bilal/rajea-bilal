@@ -17,7 +17,7 @@
 
 <div align="left"> 
 <a href="mailto:rajea.bilal@gmail.com">
-<img src="https://img.shields.io/badge/-Email Me-aa593e?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Email Me-CD853F?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
 </a>
 <a href="https://rajea-bilal.netlify.app/">
 <img src="https://img.shields.io/badge/-Portfolio-aa593e?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
