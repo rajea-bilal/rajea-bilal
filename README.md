@@ -66,7 +66,10 @@
 
 </td>
 
-<td valign="top" width="30%">
+
+</tr>
+<tr>
+  <td valign="top" width="30%">
 
   <h3 align="center">Testing</h3>
 
@@ -90,7 +93,8 @@
 </div>
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 
 </div>
