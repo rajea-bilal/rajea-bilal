@@ -75,7 +75,7 @@
 
 <div align="left">  
  
-<img src="https://img.shields.io/badge/vitest-test?style=for-the-badge&logo=vitest&color=beige" alt="Vitest" height="30" />
+<img src="https://img.shields.io/badge/vitest-test?style=for-the-badge&logo=vitest&color=teal" alt="Vitest" height="30" />
 <img src="https://img.shields.io/badge/playwright-test?style=for-the-badge&logo=playwright&color=red" alt="Express.js" height="30" />
 
 
