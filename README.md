@@ -8,7 +8,7 @@
 <p align="left">💗 I'm passionate about development and design, finding joy in creating visually appealing yet straightforward solutions. I love the process of building things from the ground up, bringing them to life, and sharing these creations with the world.</p>
 <p align="left">🚀 I’m currently learning React & Next. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
-<p align="left">:electron: In another lifetime, I have designed and sold cushion covers and art prints, exploring a different creative avenue :)</p>
+<p align="left">✏️ Fun fact: In another lifetime, I have designed and sold cushion covers and art prints, exploring a different creative avenue :)</p>
 <p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
 
 
