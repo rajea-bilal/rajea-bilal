@@ -121,6 +121,7 @@
 <div align="center">
   <table>
     <tr>
+      
       <td width="50%" height="50%">
         <h3 align="center">History Trivia</h3>
         <p align="center">
@@ -141,6 +142,7 @@
           A history trivia app built around the Open Trivia API
         </p>
       </td>
+      
       <td width="50%" height="50%">
         <h3 align="center">Wonders In the Sky - NASA</h3>
         <p align="center">
@@ -162,6 +164,9 @@
         </p>
       </td>
     </tr>
+
+    
+      
   </table>
 </div>
 
