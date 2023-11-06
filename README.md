@@ -125,9 +125,8 @@
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-           <img width="911" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/4575aa3b-77b1-4159-a4de-501bb5374672">
-
-</a><br>
+           <img width="911" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/4575aa3b-77b1-4159-a4de-501bb5374672" />
+          </a><br>
           <span>
             <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
