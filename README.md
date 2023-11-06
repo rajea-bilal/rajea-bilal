@@ -167,8 +167,8 @@
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-            <img width="1285" alt="Screenshot 2023-11-06 at 21 11 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/e926f7b5-4105-462b-b678-1091e7fe30b9" height="250px"> 
-          </a><br>
+           <img width="1285" alt="Screenshot 2023-11-06 at 21 11 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/fc95fc4f-2eb0-47a0-b582-2ede0782617e" height="250px">
+</a><br>
           <span>
             <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
@@ -180,7 +180,7 @@
         </p>
         <p align="center">
           Tech: React <br><br>
-          Discover Bestsellers with Ease: Explore, Search, and Enjoy with the NY Bestseller API Integration
+          Built a fun React project around Books. Discover Bestsellers with Ease: Explore, Search, and Enjoy with the NY Bestseller API Integration!
         </p>
       </td>
     </tr>
