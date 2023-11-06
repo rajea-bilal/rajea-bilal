@@ -120,8 +120,8 @@
 <h2 align="center">Projects</h2>
 <div align="center">
   <table>
-    <tr>
-      <td width="33%" height="50%">
+    <tr style="color: black;">
+      <td width="30%" height="50%">
         <h3 align="center">History Trivia</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
@@ -141,7 +141,7 @@
           A history trivia app built around the Open Trivia API
         </p>
       </td>
-      <td width="33%" height="50%">
+      <td width="30%" height="50%">
         <h3 align="center">Wonders In the Sky - NASA</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
@@ -163,7 +163,7 @@
       </td>
     </tr>
     <tr>
-            <td width="33%" height="50%">
+            <td width="30%" height="50%">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
           <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
