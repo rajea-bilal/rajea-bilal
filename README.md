@@ -119,8 +119,8 @@
 
 <h2 align="center">Projects</h2>
 <div align="center">
-  <table>
-    <tr style="color: black;">
+  <table style="background-color: black;">
+    <tr>
       <td width="30%" height="50%">
         <h3 align="center">History Trivia</h3>
         <p align="center">
@@ -161,7 +161,6 @@
           Worked on a fun project using NASA Image APIs to showcase magnificent images from around the universe. Click to choose a date and see what's going on in the skies :)
         </p>
       </td>
-    </tr>
             <td width="30%" height="50%" style="background-color: black;">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
