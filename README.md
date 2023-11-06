@@ -66,16 +66,15 @@
 
 </td>
 
-<td valign="top" width="40%">
+<td valign="center" width="40%">
 
   <h3 align="center">Testing</h3>
 
 <div align="left">  
  
 <img src="https://img.shields.io/badge/vitest-test?style=for-the-badge&logo=vitest&color=beige" alt="Vitest" height="30" />
-
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" alt="Express.js" height="30" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />  
+<img src="https://img.shields.io/badge/playwright-test?style=for-the-badge&logo=playwright&color=red" alt="Express.js" height="30" />
+  
 </div>
 
 </td>
