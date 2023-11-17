@@ -5,7 +5,7 @@
 <h1 align="left" style="color: #CD853F;">Hi 👋 I'm Rajea, a fullstack developer.</h1>
 <br>
 <p align="left">🌎 I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">💗 I'm passionate about development and design and find joy in creating simple yet visually appealing solutions. I love the process of building things from the ground up, bringing them to life, and sharing these creations with the world.</p>
+<p align="left">💗 I'm passionate about development and design. I find joy in creating simple yet visually appealing solutions. I love the process of building things from the ground up, bringing them to life, and sharing these creations with the world.</p>
 <p align="left">🚀 I’m always learning and improving my skills. Currently playing around with React & Next. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
 <p align="left">✏️ Fun fact: In another lifetime, I have explored a different creative avenue; designing & selling cushions and art prints.</p>
