@@ -8,7 +8,7 @@
 <p align="left">💗 I'm an entrepreneur and self-taught designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.</p>
 <p align="left">🚀 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
-<p align="left">✏️ Fun fact: In another lifetime, I have explored a different creative avenue; designing & selling cushions and art prints.</p>
+<p align="left">✏️ Fun fact: In another lifetime, I have designed & sold cushions and art prints.</p>
 <p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
 
 <img align="right" width="181" alt="Screenshot 2023-11-13 at 14 09 50" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/d8deadda-f961-4311-b64d-80c88a1ebd24">
