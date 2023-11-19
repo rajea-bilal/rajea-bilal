@@ -6,7 +6,7 @@
 <br>
 <p align="left">🌎 I'm based in Birmingham, United Kindgdom.</p>
 <p align="left">💗 I'm an entrepreneur and self-taught designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.</p>
-<p align="left">🚀 I’m always learning and improving. Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.</p>
+<p align="left">🚀 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
 <p align="left">✏️ Fun fact: In another lifetime, I have explored a different creative avenue; designing & selling cushions and art prints.</p>
 <p align="left">:email: You can contact me at rajea.bilal@gmail.com.</p>
