@@ -129,9 +129,7 @@
         <h3 align="center">TestTogether</h3>
         <p align="center">
           <a href="https://github.com/SchoolOfCode/bc15-w8-project-back-end-teamtogether" target="_blank" rel="noreferrer">
-            <img width="467" alt="Screenshot 2023-10-29 at 08 02 54" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/d5d37a93-b165-4e59-82c1-976c33db349b">
-
-    <br>
+            <img width="467" alt="Screenshot 2023-10-29 at 08 02 54" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/d5d37a93-b165-4e59-82c1-976c33db349b"></a><br>
           <span>
             <a href="https://github.com/SchoolOfCode/bc15-w8-project-back-end-teamtogether" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
