@@ -146,23 +146,24 @@
         </p>
       </td>
 <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">History Trivia</h3>
+        <h3 align="center">React Flash Cards App</h3>
         <p align="center">
-          <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxhZzhqN2c3Y215Y3R4bXBsdnU0ZmlpaTJjNWZjMGNrOGxoZnE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2qfy4FENpCFXhSPj8/giphy.gif" height="280px" width="360px" alt="project example" />
+          <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
+  <img width="686" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60">
+
           </a><br>
           <span>
-            <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
+            <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
             </a>
-            <a href="https://history-trivia.netlify.app/" target="_blank" rel="noreferrer">
+            <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
             </a>
           </span>
         </p>
         <p align="center">
-          Tech: HTML | CSS | JavaScript <br><br>
-          A history trivia app built around the Open Trivia API
+          Tech: React <br><br>
+         Enhance your knowledge with our React Flashcards App deployed on vercel. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
         </p>
       </td>
       </tr>
