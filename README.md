@@ -208,6 +208,48 @@
         </p>
       </td>
     </tr>
+        <tr>
+       <td width="30%" height="30%">
+        <h3 align="center">Wonders In the Sky - NASA</h3>
+        <p align="center">
+          <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif" height="280px" width="360px" alt="project example" />
+          </a><br>
+          <span>
+            <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
+            </a>
+            <a href="https://nasa-images-daily.netlify.app" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
+            </a>
+          </span>
+        </p>
+        <p align="center">
+          Tech: HTML | CSS | JavaScript <br><br>
+          Worked on a fun project using NASA Image APIs to showcase magnificent images from around the universe. Click to choose a date and see what's going on in the skies :)
+        </p>
+      </td>
+         <td width="30%" height="30%">
+        <h3 align="center">Wonders In the Sky - NASA</h3>
+        <p align="center">
+          <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif" height="280px" width="360px" alt="project example" />
+          </a><br>
+          <span>
+            <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
+            </a>
+            <a href="https://nasa-images-daily.netlify.app" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
+            </a>
+          </span>
+        </p>
+        <p align="center">
+          Tech: HTML | CSS | JavaScript <br><br>
+          Worked on a fun project using NASA Image APIs to showcase magnificent images from around the universe. Click to choose a date and see what's going on in the skies :)
+        </p>
+      </td>
+    </tr>
 </table>
 </div>
 
