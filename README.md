@@ -153,10 +153,10 @@
           <br><br>
           <span>
             <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Repo-yellow?style=for-the-badge&logo=package&logoColor=white" alt="button to repository" height="27px">
+              <img src="https://custom-icon-badges.demolab.com/badge/-Repo-peru?style=for-the-badge&logo=package&logoColor=white" alt="button to repository" height="27px">
             </a>
             <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Live Site-yellow?style=for-the-badge&logo=package&logoColor=white" alt="button to live site" height="27px">
+              <img src="https://custom-icon-badges.demolab.com/badge/-Live Site-peru?style=for-the-badge&logo=package&logoColor=white" alt="button to live site" height="27px">
             </a>
           </span>
         </p>
