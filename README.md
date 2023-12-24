@@ -149,7 +149,7 @@
         <h3 align="center">React Flash Cards App</h3>
         <p align="center">
           <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-  <img width="400px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
+  <img width="400px" height="350px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
           <br>
           <span>
             <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
