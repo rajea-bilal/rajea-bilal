@@ -161,7 +161,7 @@
         </p>
         <p align="center">
           Tech: HTML | CSS | JavaScript | Supabase <br><br>
-        A full-stack app developed to support people in their mental well-being. It offers users a combination of techniques - developed from over 20 years of research - which when practiced consistently can calm the mind and help reduce anxiety and stress.
+        A full-stack app developed to support people in their mental well-being. It offers users a combination of techniques which when practiced consistently can calm the mind and help reduce anxiety and stress.
         </p>
       </td>
       </tr>
@@ -183,7 +183,7 @@
         </p>
         <p align="center">
           Tech: React <br><br>
-         Enhance your knowledge with our React Flashcards App deployed on vercel. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
+         Enhance your knowledge with our React Flashcards App. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
         </p>
       </td>
        <td width="30%" height="30%" style="background-color: black;">
