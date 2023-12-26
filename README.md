@@ -149,7 +149,7 @@
         <h3 align="center">BeCalm App</h3>
         <p align="center">
           <a href="https://becalm-final-project.onrender.com/" target="_blank" rel="noreferrer">
-  <img width="575" alt="be-calm-app" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/7550cbb4-dd05-41ac-9299-9a5b72563299"></a><br><br>
+            <img width="890" alt="Screenshot 2023-12-26 at 22 15 03" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/cdfd2585-9232-4b64-ab02-520ba0a0985a"></a><br><br>
           <span>
             <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
