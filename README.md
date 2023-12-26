@@ -170,7 +170,7 @@
         <h3 align="center">React Flash Cards App</h3>
         <p align="center">
           <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-  <img width="400px" height="350px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
+  <img width="350px" height="300px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
           <br><br>
           <span>
             <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
@@ -191,7 +191,7 @@
         <p align="center">
           <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
            <img width="350px" height="300px" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/c3353aa0-1a36-453a-9541-e6a349ae019b">
-</a><br>
+</a><br><br>
           <span>
             <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
