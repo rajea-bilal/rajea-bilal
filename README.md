@@ -146,23 +146,23 @@
         </p>
       </td>
 <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">React Flash Cards App</h3>
+        <h3 align="center">BeCalm App</h3>
         <p align="center">
-          <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-  <img width="400px" height="350px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
-          <br><br>
+          <a href="https://becalm-final-project.onrender.com/" target="_blank" rel="noreferrer">
+  
+            <img width="575" alt="be-calm-app" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/7550cbb4-dd05-41ac-9299-9a5b72563299"></a><br><br>
           <span>
             <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
             </a>
-            <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://becalm-final-project.onrender.com/" target="_blank" rel="noreferrer">
                <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
             </a>
           </span>
         </p>
         <p align="center">
-          Tech: React <br><br>
-         Enhance your knowledge with our React Flashcards App deployed on vercel. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
+          Tech: HTML | CSS | JavaScript | Supabase <br><br>
+        A full-stack app developed to support people in their mental well-being. It offers users a combination of techniques - developed from over 20 years of research - which when practiced consistently can calm the mind and help reduce anxiety and stress.
         </p>
       </td>
       </tr>
