@@ -187,8 +187,6 @@
          Enhance your knowledge with our React Flashcards App deployed on vercel. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
         </p>
       </td>
-    
-     <tr>
        <td width="30%" height="30%" style="background-color: black;">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
