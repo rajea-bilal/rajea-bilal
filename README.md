@@ -5,7 +5,7 @@
 <h1 align="left" style="color: #CD853F;">Hi 👋 I'm Rajea, a fullstack developer.</h1>
 <br>
 <p align="left">🌎 I'm based in Birmingham, United Kindgdom.</p>
-<p align="left">💗 I'm an entrepreneur and self-taught designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.</p>
+<p align="left">💗 I'm an entrepreneur and designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.</p>
 <p align="left">🚀 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.</p>
 <p align="left">:bulb: I enjoy reading books, history, design, architecture and spending time in nature.</p>
 <p align="left">✏️ Fun fact: In another lifetime, I have designed & sold cushions and art prints.</p>
