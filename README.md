@@ -139,10 +139,10 @@
             </a>
           </span>
         </p>
-        <p align="center">
+        <p align="center" max-width="15rem">
           Frontend: HTML | CSS | JavaScript <br>
           Backend: Node | Express | PostgreSQL <br><br>
-          Bootcampers struggle to retain vast amounts of information due to the intensive nature of their programs. The lack of regular self-assessment tools leads to     ineffective learning outcomes. Our app comes as a solution by providing a quick, easy way to quiz regularly.
+        A full-stack app developed to support bootcampers in effectively retaining vast amounts of information. It offers a space for users to quiz themselves quickly and easily.
         </p>
       </td>
 <td width="30%" height="30%" style="background-color: black;">
