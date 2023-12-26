@@ -166,7 +166,6 @@
         </p>
       </td>
       </tr>
-    
     <tr>
     <td width="30%" height="30%" style="background-color: black;">
         <h3 align="center">React Flash Cards App</h3>
@@ -189,7 +188,7 @@
         </p>
       </td>
     
-     
+     <tr>
        <td width="30%" height="30%" style="background-color: black;">
         <h3 align="center">Reader's Radar</h3>
         <p align="center">
