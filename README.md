@@ -9,11 +9,11 @@
 - 💗 I'm an entrepreneur and designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.
 
 ## 🔭 Current Endeavors 
-- 🚀 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
+- Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
 
 ## ✨ Fun Facts 
 - I used to design and sell cushion covers and art prints.
-- :bulb: I enjoy reading books, history, design, architecture and spending time in nature.
+- I enjoy reading books, history, design, architecture and spending time in nature.
   
 ## 📫 Contact
 - :email: You can contact me at rajea.bilal@gmail.com.
