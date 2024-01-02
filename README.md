@@ -12,7 +12,7 @@
 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
 
 ## ✨ Fun Facts 
-I used to design and sell cushion covers and art prints.<br>
+I used to design and sell cushion covers and art prints.<br><br>
 I enjoy reading books, history, design, architecture and spending time in nature.
   
 ## 📫 Contact
