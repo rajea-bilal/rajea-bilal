@@ -5,14 +5,14 @@
 <h1 align="left" style="color: #CD853F;">Hi 👋 I'm Rajea, a fullstack developer.</h1>
 
 
-🌎 I'm based in Birmingham, United Kindgdom.<br><br>
+🌎 I'm based in Birmingham, United Kindgdom.<br>
 💗 I'm an entrepreneur and designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.
 
 ## 🔭 Current Endeavors 
 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
 
 ## ✨ Fun Facts 
-I used to design and sell cushion covers and art prints.<br><br>
+I used to design and sell cushion covers and art prints.<br>
 I enjoy reading books, history, design, architecture and spending time in nature.
   
 ## 📫 Contact
