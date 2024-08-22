@@ -6,7 +6,7 @@
 
 
 🌎 I'm based in Birmingham, United Kindgdom.<br>
-💗 I have a background in business and teaching, now changing careers to become a software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.
+💗 Transitioning from business and teaching to software development, I've built a strong foundation in JavaScript, React, and Node.js. I combine my diverse background with technical skills to create functional, intuitive, and visually appealing applications.
 
 ## 🔭 Current Endeavors 
 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
