@@ -166,7 +166,8 @@ I enjoy designing with Adobe Illustrator, exploring photography, travelling and 
           </span>
         </p>
         <p align="center">
-          Tech: Next.js | PostgreSQL | Clerk | OpenAI <br><br> Google Cloud Vision API | Tailwind CSS | Cloudinary |
+          Tech: Next.js | PostgreSQL | Clerk | OpenAI <br>
+          Google Cloud Vision API | Tailwind CSS | Cloudinary | <br><br>
        NoteSelfy is a full-stack web application that breathes life into forgotten screenshots. It empowers users to effortlessly upload images, then leverages Google Cloud Vision's OCR to extract text and OpenAI's intelligence to generate smart categories. By transforming static visuals into shareable, searchable content, NoteSelfy turns dormant information into active, accessible knowledge.
         </p>
       </td>
