@@ -153,22 +153,22 @@ I enjoy reading books, history, design, architecture and spending time in nature
         </p>
       </td>
 <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">BeCalm App</h3>
+        <h3 align="center">NoteSelfy</h3>
         <p align="center">
-          <a href="https://becalm-final-project.onrender.com/" target="_blank" rel="noreferrer">
-            <img width="300px" height="280px" alt="Screenshot 2023-12-26 at 22 16 39" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/45e0c3d8-60cf-4067-812d-46927ddf41bb"></a><br><br>
+          <a href="https://noteselfy.vercel.app/" target="_blank" rel="noreferrer">
+           <img width="1584" alt="Screenshot 2024-08-22 at 16 20 07" src="https://github.com/user-attachments/assets/ae986653-9b5f-4eb3-9943-0ec916e72ccf"></a><br><br>
           <span>
-            <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
+            <a href="https://github.com/rajea-bilal/noteselfy" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
             </a>
-            <a href="https://becalm-final-project.onrender.com/" target="_blank" rel="noreferrer">
+            <a href="https://noteselfy.vercel.app/" target="_blank" rel="noreferrer">
                <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
             </a>
           </span>
         </p>
         <p align="center">
-          Tech: HTML | CSS | JavaScript | Supabase <br><br>
-        A full-stack app developed to support people in their mental well-being. It offers users a combination of techniques which when practiced consistently can calm the mind and help reduce anxiety and stress.
+          Tech: Next.js | PostgreSQL | Google Cloud Vision API | OpenAI <br><br>
+       A full stack web app that allows users to effortlessly upload screenshots/images, extract text using Google Cloud Vision OCR, and generates smart categories using Open AI. Users are able to share this text, bringing the words to life! Its a tool to transform those forgotten screenshots into active, accessible knowledge.
         </p>
       </td>
       </tr>
