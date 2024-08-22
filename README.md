@@ -6,14 +6,13 @@
 
 
 🌎 I'm based in Birmingham, United Kindgdom.<br>
-💗 I'm an entrepreneur and designer turned software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.
+💗 I have a background in business and teaching, now changing careers to become a software developer with a strong foundation in JavaScript, React, & Node.js. I'm obsessed with creating functional, smooth and visually pleasing applications.
 
 ## 🔭 Current Endeavors 
 Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
 
-## ✨ Fun Facts 
-I used to design and sell cushion covers and art prints.<br>
-I enjoy reading books, history, design, architecture and spending time in nature.
+## ✨ Hobbies
+I enjoy designing with Adobe Illustrator, exploring photography, travelling and reading widely. 
   
 ## 📫 Contact
 :email: You can contact me at rajea.bilal@gmail.com.
@@ -167,7 +166,7 @@ I enjoy reading books, history, design, architecture and spending time in nature
           </span>
         </p>
         <p align="center">
-          Tech: Next.js | PostgreSQL | Google Cloud Vision API | OpenAI <br><br>
+          Tech: Next.js | PostgreSQL | Clerk | OpenAI <br><br> Google Cloud Vision API | Tailwind CSS | Cloudinary |
        A full stack web app that allows users to effortlessly upload screenshots/images, extract text using Google Cloud Vision OCR, and generates smart categories using Open AI. Users are able to share this text, bringing the words to life! Its a tool to transform those forgotten screenshots into active, accessible knowledge.
         </p>
       </td>
