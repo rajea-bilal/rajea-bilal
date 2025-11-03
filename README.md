@@ -1,262 +1,87 @@
+<h1 align="left" style="color: #CD853F;">👋 Hi, I'm Rajea, an AI-focused full-stack developer & creative builder</h1>
 
+🌍 Based in Birmingham, UK
+💡 I build thoughtful digital products that blend design, code, and creativity, from client-facing web apps to full SaaS platforms.
+I’ve worked extensively across **React, Next.js, TypeScript, Node.js, Convex, Stripe, and Clerk**, focusing on performance, UX, AI integration, and real-world problem-solving.
 
+I began in business and teaching, that background helps me design tools that people actually enjoy using.
 
+---
 
-<h1 align="left" style="color: #CD853F;">Hi 👋 I'm Rajea, a fullstack developer.</h1>
+## 🔭 What I’m working on
 
+* **[CafOps](https://caf-ops.com/):** Founding Engineer at an early-stage SaaS startup helping cafés manage sales, waste, and inventory in real time through Square POS and Convex integration.
+* **[UK Notary Service](https://www.uknotaryservice.com/):** A live production website with an AI-powered chatbot that captures and automates client enquiries.
+* **[EduKata](https://edukata.io/):** A full-stack edtech startup developed alongside an educator with 20+ years in the field, helping schools identify student performance trends from CSV data and intervene early with AI-assisted insights.
 
-🌎 I'm based in Birmingham, United Kindgdom.<br>
-💗 Transitioning from business and teaching to software development, I've built a strong foundation in JavaScript, React, and Node.js. I combine my diverse background with technical skills to create functional, intuitive, and visually appealing applications.
+---
 
-## 🔭 Current Endeavors 
-Currently playing around with React & Next.js. Feel free to stay awhile and browse through my latest projects.
+## 🛠️ Tech Stack
 
-## ✨ Hobbies
-I enjoy designing with Adobe Illustrator, exploring photography, travelling and reading widely. 
-  
+**Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN
+**Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB
+**Auth & Payments:** Clerk, Stripe Connect
+**Other:** n8n, OpenAI API, Google Cloud Vision, Git, REST APIs
+
+---
+
+## ✨ Outside of code
+
+Designing with Illustrator, exploring architecture, photography, and reading widely.
+
+---
+
 ## 📫 Contact
-:email: You can contact me at rajea.bilal@gmail.com.
 
-<img align="right" width="181" alt="Screenshot 2023-11-13 at 14 09 50" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/d8deadda-f961-4311-b64d-80c88a1ebd24">
+📧 **[rajea.bilal@gmail.com](mailto:rajea.bilal@gmail.com)**
+🌐 [Portfolio](https://rajea-bilal.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rajea-bilal/) · [Twitter](https://twitter.com/rajeabilal)
 
+---
 
+<h2 align="center">Featured Projects</h2>
 
-<br>
-
-<!-- Buttons Top -->
-
-<div align="left"> 
-<a href="mailto:rajea.bilal@gmail.com">
-<img src="https://img.shields.io/badge/-Email Me-CD853F?style=for-the-badge&?logoWidth=50" alt="Email" style="margin-bottom: 5px;" />
-</a>
-<a href="https://rajea-bilal.netlify.app/">
-<img src="https://img.shields.io/badge/-Portfolio-CD853F?style=for-the-badge&?logoWidth=50" alt="Portfolio Site" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/rajeabilal">
-<img src="https://img.shields.io/badge/-Twitter-CD853F?style=for-the-badge&?logoWidth=50" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/rajea-bilal/">
-<img src="https://img.shields.io/badge/-Linkedin-CD853F?style=for-the-badge&?logoWidth=50" alt="linkedin" style="margin-bottom: 5px;" />
-</a>  
-<a href="https://angel.co/u/rajea-bilal">
-<img src="https://img.shields.io/badge/-AngelList-CD853F?style=for-the-badge&?logoWidth=50" alt="AngelList" style="margin-bottom: 5px;" />
-</a> 
-</div>
-
-<br>
-<br>
-  
 <div align="center">
-  
-<h2>My Skill Set</h2>
-
-<table><tr><td valign="top" width="30%">
-
-  <h3 align="center">Frontend</h3>
-
-<div align="left">  
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />  
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />  
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="JavaScript" height="30" />  
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" alt="React" height="30" />   
-</div>
-
-</td><td valign="top" width="30%">
-
-  <h3 align="center">Backend</h3>
-
-<div align="left">  
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" alt="JavaScript" height="30" /> 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" alt="Node.js" height="30" />  
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" alt="Express.js" height="30" /> 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />  
-<img src="https://img.shields.io/badge/mongoDB-test?style=for-the-badge&logo=mongodb&color=gray" alt="MongoDB" height="30" />  
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)" alt="Git" height="30" />  
-</div>
-
-</td>
-
-
-</tr>
-<tr>
-  <td valign="top" width="30%">
-
-  <h3 align="center">Testing</h3>
-
-<div align="left">  
- 
-<img src="https://img.shields.io/badge/vitest-test?style=for-the-badge&logo=vitest&color=teal" alt="Vitest" height="30" />
-<img src="https://img.shields.io/badge/playwright-test?style=for-the-badge&logo=playwright&color=red" alt="Express.js" height="30" />
-
-
-</div>
-
-</td>
-<td valign="top" width="30%">
-
-  <h3 align="center">Code Practices</h3>
-
-<div align="left">  
-<img src="https://img.shields.io/badge/agile-methodology-test?style=for-the-badge&color=olive" alt="agile-methodology" height="30" />  
-<img src="https://img.shields.io/badge/teamwork-test?style=for-the-badge&color=yellow" alt="teamwork" height="30" />  
-<img src="https://img.shields.io/badge/computational-thinking-test?style=for-the-badge&color=peru" alt="computational-thinking" height="30" />  
-
-
-</div>
-
-</td>
-</tr>
-</table>
-
-
-</div>
-
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajea-bilal&show_icons=true&locale=en&layout=compact" alt="rajea-bilal" /></p> -->
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajea-bilal&show_icons=true&locale=en" alt="rajea-bilal" /></p> -->
-
-<br>
-
-
-
-<br>
-
-
-<!-- PROJECTS -->
-
-<h2 align="center">Projects</h2>
-<div align="center">
-  <table style="background-color: black;">
+  <table>
     <tr>
-        <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">TestTogether</h3>
+      <td width="45%">
+        <h3 align="center"><a href="https://caf-ops.com/" target="_blank">CafeOps</a></h3>
         <p align="center">
-          <a href="https://github.com/SchoolOfCode/bc15-w8-project-back-end-teamtogether" target="_blank" rel="noreferrer">
-          <img width="360px" height ="280px" alt="Screenshot 2023-12-24 at 22 16 48" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/7ff2e59b-593a-4972-aae6-2f0e890df4d6"></a><br><br>
-          <span>
-            <a href="https://github.com/SchoolOfCode/bc15-w8-project-back-end-teamtogether" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
-            </a>
-            <a href="https://book-app-omega.vercel.app/" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
+          <img width="380" src="https://github.com/user-attachments/assets/97776315-acb9-4cf3-86c4-908aa79fce62" alt="CafeOps Dashboard Screenshot" />
         </p>
-        <p align="center" max-width="15rem">
-          Frontend: HTML | CSS | JavaScript <br>
-          Backend: Node | Express | PostgreSQL <br><br>
-        A full-stack app developed to support bootcampers in effectively retaining vast amounts of information. It offers a space for users to quiz themselves quickly and easily.
+        <p align="center">
+          <b>React Router v7 · Convex · Square API · Stripe Connect</b><br><br>
+          SaaS startup built for café owners to track sales, waste, and inventory in real time.  
+          As Founding Engineer, I worked on POS data flows, cloud functions, and dashboards powered by Convex.
         </p>
       </td>
-<td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">NoteSelfy</h3>
+      <td width="45%">
+        <h3 align="center"><a href="https://www.uknotaryservice.com/" target="_blank">UK Notary Service</a></h3>
         <p align="center">
-          <a href="https://noteselfy.vercel.app/" target="_blank" rel="noreferrer">
-           <img width="1584" alt="Screenshot 2024-08-22 at 16 20 07" src="https://github.com/user-attachments/assets/ae986653-9b5f-4eb3-9943-0ec916e72ccf"></a><br><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/noteselfy" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-            <a href="https://noteselfy.vercel.app/" target="_blank" rel="noreferrer">
-               <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
+          <img width="380" src="https://github.com/user-attachments/assets/5edb936e-6a21-41c2-8484-a2bf5904d8c3" alt="UK Notary Service Screenshot" />
         </p>
         <p align="center">
-          Tech: Next.js | PostgreSQL | Clerk | OpenAI <br>
-          Google Cloud Vision API | Tailwind CSS | Cloudinary | <br><br>
-       NoteSelfy is a full-stack web application that breathes life into forgotten screenshots. It empowers users to effortlessly upload images, then leverages Google Cloud Vision's OCR to extract text and OpenAI's intelligence to generate smart categories. By transforming static visuals into shareable, searchable content, NoteSelfy turns dormant information into active, accessible knowledge.
-        </p>
-      </td>
-      </tr>
-    <tr>
-    <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">React Flash Cards App</h3>
-        <p align="center">
-          <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-  <img width="350px" height="300px" alt="Screenshot 2023-12-24 at 22 38 02" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/542f51de-e81a-4e17-9766-b4082a664a60"></a>
-          <br><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/react-flash-cards-app" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-            <a href="https://react-flash-cards-app.vercel.app/" target="_blank" rel="noreferrer">
-               <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
-        </p>
-        <p align="center">
-          Tech: React <br><br>
-         Enhance your knowledge with our React Flashcards App. Easily add flashcards to test yourself on any topic. Practice and reinforce your learning by quizzing your answers. Streamline your study routine and boost retention in a user-friendly and interactive environment
-        </p>
-      </td>
-       <td width="30%" height="30%" style="background-color: black;">
-        <h3 align="center">Reader's Radar</h3>
-        <p align="center">
-          <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
-           <img width="350px" height="300px" alt="Screenshot 2023-11-06 at 21 39 00" src="https://github.com/rajea-bilal/rajea-bilal/assets/93056794/c3353aa0-1a36-453a-9541-e6a349ae019b">
-</a><br><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/book-app" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
-            </a>
-            <a href="https://book-app-omega.vercel.app/" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
-        </p>
-        <p align="center">
-          Tech: React <br><br>
-          Built a fun React project around Books. Discover Bestsellers with Ease: Explore, Search, and Enjoy with the NY Bestseller API Integration!
+          <b>React · Vercel AI SDK · Supabase · n8n</b><br><br>
+          A modern business website built for a UK-based notary firm.  
+          Features an AI chatbot that captures client details and automates lead notifications using a connected n8n workflow.
         </p>
       </td>
     </tr>
-        <tr>
-       <td width="30%" height="30%">
-        <h3 align="center">Wonders In the Sky - NASA</h3>
+    <tr>
+      <td width="45%">
+        <h3 align="center"><a href="https://edukata.io/" target="_blank">EduKata</a></h3>
         <p align="center">
-          <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
-            <img src="https://media.giphy.com/media/YILLeAajL6GaFR6qbj/giphy.gif" height="280px" width="360px" alt="project example" />
-          </a><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/nasa-daily-images" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
-            </a>
-            <a href="https://nasa-images-daily.netlify.app" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
+          <img width="380" src="https://github.com/user-attachments/assets/70f6a1bc-3c77-4d34-ad4f-eb1b1f63b086" alt="EduKata Screenshot" />
         </p>
         <p align="center">
-          Tech: HTML | CSS | JavaScript <br><br>
-          Worked on a fun project using NASA Image APIs to showcase magnificent images from around the universe. Click to choose a date and see what's going on in the skies :)
-        </p>
-      </td>
-         <td width="30%" height="30%">
-      <h3 align="center">History Trivia</h3>
-        <p align="center">
-          <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxhZzhqN2c3Y215Y3R4bXBsdnU0ZmlpaTJjNWZjMGNrOGxoZnE0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2qfy4FENpCFXhSPj8/giphy.gif" height="280px" width="360px" alt="project example" />
-          </a><br>
-          <span>
-            <a href="https://github.com/rajea-bilal/history-trivia" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Repo-aa593e?style=for-the-badge&?logoWidth=40" alt="button to repository" height="25px">
-            </a>
-            <a href="https://history-trivia.netlify.app/" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-Live_site-aa593e?style=for-the-badge&?logoWidth=40" alt="button to live site" height="25px">
-            </a>
-          </span>
-        </p>
-        <p align="center">
-          Tech: HTML | CSS | JavaScript <br><br>
-          A history trivia app built around the Open Trivia API
+          <b>Next.js · Convex · PostgreSQL · OpenAI</b><br><br>
+          Built alongside a veteran educator as part of an edtech startup.  
+          EduKata enables schools to upload CSV datasets, visualise performance trends, and surface early insights using AI.
         </p>
       </td>
     </tr>
-</table>
+  </table>
 </div>
 
+---
 
+⭐️ *I love collaborating with founders and teams who care about meaningful, user-centred software.*
