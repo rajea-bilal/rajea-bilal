@@ -18,7 +18,7 @@ I began in business and teaching, that background helps me design tools that peo
 
 ## 🛠️ Tech Stack 
 
-* **Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN
+* **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, Shadcnui, Responsive UI
 * **Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB
 * **Auth & Payments:** Clerk, Stripe Connect
 * **DevOps** Linux, Bash, Networking, Docker
