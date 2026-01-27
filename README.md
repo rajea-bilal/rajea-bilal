@@ -1,8 +1,8 @@
 <h1 align="left" style="color: #CD853F;">👋 Hi, I'm Rajea, an AI-focused full-stack developer & creative builder</h1>
 
-🌍 Based in Birmingham, UK
-💡 I build thoughtful digital products that blend design, code, and creativity, from client-facing web apps to full SaaS platforms.
-I’ve worked extensively across **React, Next.js, TypeScript, Node.js, Convex, Stripe, and Clerk**, focusing on performance, UX, AI integration, and real-world problem-solving.
+* 🌍 Based in Birmingham, UK
+* 💡 I build thoughtful digital products that blend design, code, and creativity, from client-facing web apps to full SaaS platforms.
+* I’ve worked extensively across **React, Next.js, TypeScript, Node.js, Convex, Stripe, and Clerk**, focusing on performance, UX, AI integration, and real-world problem-solving.
 
 I began in business and teaching, that background helps me design tools that people actually enjoy using.
 
