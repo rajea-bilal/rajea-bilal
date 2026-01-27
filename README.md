@@ -34,7 +34,7 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
 ## 📫 Contact
 
 📧 **[rajea.bilal@gmail.com](mailto:rajea.bilal@gmail.com)**
-🌐 [Portfolio](https://rajea-bilal.netlify.app) · [LinkedIn](https://www.linkedin.com/in/rajea-bilal/) · [Twitter](https://twitter.com/rajeabilal)
+🌐 [Portfolio](https://rajeabilal.com) · [LinkedIn](https://www.linkedin.com/in/rajea-bilal/) · [Twitter](https://twitter.com/rajeabilal)
 
 ---
 
