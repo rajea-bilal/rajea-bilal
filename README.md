@@ -21,6 +21,7 @@ I began in business and teaching, that background helps me design tools that peo
 **Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN
 **Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB
 **Auth & Payments:** Clerk, Stripe Connect
+**DevOps** Linux, Bash, Networking, Docker
 **Other:** n8n, OpenAI API, Google Cloud Vision, Git, REST APIs
 
 ---
