@@ -2,7 +2,7 @@
 
 I’m a Birmingham-based full-stack developer, mainly working with React, Next.js, TypeScript and Node.js.
 
-I’ve worked with founders and clients to build real products — from tools for cafés and internal dashboards, to education products that process student data, to more user-facing platforms like CliniBridge, a hackathon-winning project focused on helping rare-disease patients find relevant clinical trials.
+I’ve worked with founders and clients to build real products, from tools for cafés and internal dashboards, to education products that process student data, to more user-facing platforms like CliniBridge, a hackathon-winning project focused on helping rare-disease patients find relevant clinical trials.
 
 I like building things that are genuinely useful, clear to use, and properly thought through.
 ---
