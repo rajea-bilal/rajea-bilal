@@ -1,29 +1,25 @@
-<h1 align="left" style="color: #CD853F;">👋 Hi, I'm Rajea, an AI-focused full-stack developer & creative builder</h1>
+<h1 align="left" style="color: #CD853F;"># 👋 Hi, I’m Rajea
 
-* 🌍 Based in Birmingham, UK
-* 💡 I build thoughtful digital products that blend design, code, and creativity, from client-facing web apps to full SaaS platforms.
-* I’ve worked extensively across **React, Next.js, TypeScript, Node.js, Convex, Stripe, and Clerk**, focusing on performance, UX, AI integration, and real-world problem-solving.
+I’m a Birmingham-based full-stack developer, mainly working with React, Next.js, TypeScript and Node.js.
 
-I began in business and teaching, that background helps me design tools that people actually enjoy using.
+I’ve worked with founders and clients to build real products — from tools for cafés and internal dashboards, to education products that process student data, to more user-facing platforms like CliniBridge, a hackathon-winning project focused on helping rare-disease patients find relevant clinical trials.
 
+I like building things that are genuinely useful, clear to use, and properly thought through.
 ---
 
-## 🔭 What I’m working on
+## 🛠 What I’m working on
 
-* **[CafOps](https://caf-ops.com/):** Founding Engineer at an early-stage SaaS startup helping cafés manage sales, waste, and inventory in real time through Square POS and Convex integration.
-* **[UK Notary Service](https://www.uknotaryservice.com/):** A live production website with an AI-powered chatbot that captures and automates client enquiries.
-* **[EduKata](https://edukata.io/):** A full-stack edtech startup developed alongside an educator with 20+ years in the field, helping schools identify student performance trends from CSV data and intervene early with AI-assisted insights.
+- **CafeOps** — Founding Engineer at an early-stage SaaS startup building real-time tools for cafés to manage sales, waste, and inventory.
+- **UK Notary Service** — Built a live website and AI-powered enquiry flow for a UK notary firm, including chatbot lead capture and automated follow-up workflows.
+- **EduKata** — Built with an experienced educator to help schools upload CSV data, run student performance through custom scoring and analysis logic in the backend, and highlight trends for teachers and school leaders.
 
----
+## ⚒️ Tech Stack
 
-## 🛠️ Tech Stack 
-
-* **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, Shadcnui, Responsive UI
-* **Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB
-* **Auth & Payments:** Clerk, Stripe Connect
-* **DevOps** Linux, Bash, Networking, Docker
-* **Other:** n8n, OpenAI API, Google Cloud Vision, Git, REST APIs
-
+- **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB, Supabase
+- **Infrastructure & DevOps:** Git, Linux, Bash, Docker, networking fundamentals
+- **Auth & Payments:** Clerk, Stripe, Stripe Connect
+- **Developer Workflow:** GitHub, Git, Linux, Bash, Docker, and AI-assisted development tools including Claude Code, Codex, and Cursor
 ---
 
 ## ✨ Outside of code
