@@ -7,10 +7,11 @@ I’ve worked with founders and clients to build real products, from tools for c
 I like building things that are genuinely useful, clear to use, and properly thought through.
 ---
 
-## 🛠 What I’m working on
+## 🛠 Selected Projects
 
+- **CliniBridge** — Built a hackathon-winning platform focused on helping rare-disease patients find relevant clinical trials.
 - **CafeOps** — Founding Engineer at an early-stage SaaS startup building real-time tools for cafés to manage sales, waste, and inventory.
-- **UK Notary Service** — Built a live website and AI-powered enquiry flow for a UK notary firm, including chatbot lead capture and automated follow-up workflows.
+- **UK Notary Service** — Built a live website and enquiry flow for a UK notary firm, including chatbot lead capture.
 - **EduKata** — Built with an experienced educator to help schools upload CSV data, run student performance through custom scoring and analysis logic in the backend, and highlight trends for teachers and school leaders.
 
 ## ⚒️ Tech Stack
