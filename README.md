@@ -1,4 +1,4 @@
-<h1 align="left" style="color: #CD853F;"># 👋 Hi, I’m Rajea
+# 👋 Hi, I’m Rajea
 
 I’m a Birmingham-based full-stack developer, mainly working with React, Next.js, TypeScript and Node.js.
 
