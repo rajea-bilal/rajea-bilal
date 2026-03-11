@@ -87,4 +87,4 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
 
 ---
 
-⭐️ _I enjoy working with founders and teams who care about useful, thoughtful software._
+
