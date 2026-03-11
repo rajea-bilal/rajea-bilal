@@ -12,14 +12,15 @@ I like building things that are genuinely useful, clear to use, and well thought
 
 - **CliniBridge**
   
-  Hackathon-winning platform designed to help rare-disease patients find relevant clinical trials using AI-assisted matching from patient descriptions.  
-  **Tech:** React, TanStack Start, Convex, Cloudflare, clinicaltrials.gov API
-  **Links:** [Repo](https://github.com/rajea-bilal/dale-carnegie-ai) · [Live Demo](https://dale-carnegie-ai.vercel.app/)
+Hackathon-winning platform designed to help rare-disease patients find relevant clinical trials using AI-assisted matching from patient descriptions.  
+**Tech:** React, TanStack Start, Convex, Cloudflare, clinicaltrials.gov API
+**Links:** [Repo](https://github.com/rajea-bilal/dale-carnegie-ai) · [Live Demo](https://dale-carnegie-ai.vercel.app/)
 
 - **Dale Carnegie AI Platform**  
 
-  RAG-based AI platform built around *How to Win Friends and Influence People*. The system ingests the book, converts its content into embeddings, stores them in a vector database, and retrieves semantically relevant passages for each user query before passing them to the LLM, helping keep responses grounded in Dale Carnegie’s principles. Includes optional response playback using a cloned Dale Carnegie voice via ElevenLabs.  
-  **Tech:** Next.js, RAG, embeddings, vector database, OpenAI, Clerk, ElevenLabs
+RAG-based AI platform built around *How to Win Friends and Influence People*. The system ingests the book, converts its content into embeddings, stores them in a vector database, and retrieves semantically relevant passages for each user query before passing them to the LLM, helping keep responses grounded in Dale Carnegie’s principles. Includes optional response playback using a cloned Dale Carnegie voice via ElevenLabs.
+  
+**Tech:** Next.js, RAG, embeddings, vector database, OpenAI, Clerk, ElevenLabs
 
 
 ## ⚒️ Tech Stack
