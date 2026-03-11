@@ -1,26 +1,31 @@
 # 👋 Hi, I’m Rajea
 
-I’m a Birmingham-based full-stack developer, mainly working with React, Next.js, TypeScript and Node.js.
+I’m a Birmingham-based full-stack developer working mainly with React, Next.js, TypeScript and Node.js.
 
-I’ve worked with founders and clients to build real products, from tools for cafés and internal dashboards, to education products that process student data, to more user-facing platforms like CliniBridge, a hackathon-winning project focused on helping rare-disease patients find relevant clinical trials.
+I’ve worked with founders and clients to build real products, from internal tools and dashboards to user-facing platforms in healthcare, education, and services.
 
-I like building things that are genuinely useful, clear to use, and properly thought through.
+I like building things that are genuinely useful, clear to use, and well thought through.
+
 ---
 
-## 🛠 Selected Projects
+## 🛠 Featured Personal Projects
 
-- **CliniBridge** — Built a hackathon-winning platform focused on helping rare-disease patients find relevant clinical trials.
-- **CafeOps** — Founding Engineer at an early-stage SaaS startup building real-time tools for cafés to manage sales, waste, and inventory.
-- **UK Notary Service** — Built a live website and enquiry flow for a UK notary firm, including chatbot lead capture.
-- **EduKata** — Built with an experienced educator to help schools upload CSV data, run student performance through custom scoring and analysis logic in the backend, and highlight trends for teachers and school leaders.
+- **CliniBridge**  
+  Hackathon-winning platform designed to help rare-disease patients find relevant clinical trials using AI-assisted matching from patient descriptions.  
+  **Tech:** React, TanStack Start, Convex, Cloudflare, clinicaltrials.gov API
+
+- **Dale Carnegie AI Platform**  
+  RAG-based AI platform grounded in _How to Win Friends and Influence People_, using semantic retrieval to generate responses tied to the book’s principles.  
+  **Tech:** Next.js, RAG, embeddings, vector database, OpenAI, Clerk, ElevenLabs
 
 ## ⚒️ Tech Stack
 
-- **Frontend:** JavaScript, React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, shadcn/ui
 - **Backend:** Node.js, Express, Convex, PostgreSQL, MongoDB, Supabase
-- **Infrastructure & DevOps:** Git, Linux, Bash, Docker, networking fundamentals
+- **Infrastructure & DevOps:** Git, Linux, Bash, Docker, Cloudflare, networking fundamentals
 - **Auth & Payments:** Clerk, Stripe, Stripe Connect
-- **Developer Workflow:** GitHub, Git, Linux, Bash, Docker, and AI-assisted development tools including Claude Code, Codex, and Cursor
+- **Workflow:** GitHub, Claude Code, Codex, Cursor
+
 ---
 
 ## ✨ Outside of code
@@ -31,12 +36,12 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
 
 ## 📫 Contact
 
-📧 **[rajea.bilal@gmail.com](mailto:rajea.bilal@gmail.com)**
+📧 **[rajea.bilal@gmail.com](mailto:rajea.bilal@gmail.com)**  
 🌐 [Portfolio](https://rajeabilal.com) · [LinkedIn](https://www.linkedin.com/in/rajea-bilal/) · [Twitter](https://twitter.com/rajeabilal)
 
 ---
 
-<h2 align="center">Work Experience</h2>
+<h2 align="center">Selected Professional Work</h2>
 
 <div align="center">
   <table>
@@ -48,8 +53,7 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
         </p>
         <p align="center">
           <b>React Router v7 · Convex · Square API · Stripe Connect</b><br><br>
-          SaaS startup built for café owners to track sales, waste, and inventory in real time.  
-          As Founding Engineer, I worked on POS data flows, cloud functions, and dashboards powered by Convex.
+          SaaS startup built for café owners to track sales, waste, and inventory in real time. As Founding Engineer, I worked on POS data flows, cloud functions, and dashboards powered by Convex.
         </p>
       </td>
       <td width="45%">
@@ -59,8 +63,7 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
         </p>
         <p align="center">
           <b>React · Vercel AI SDK · Supabase · n8n</b><br><br>
-          A modern business website built for a UK-based notary firm.  
-          Features an AI chatbot that captures client details and automates lead notifications using a connected n8n workflow.
+          Modern business website built for a UK-based notary firm, including an AI chatbot to capture client details and an n8n workflow for lead notifications.
         </p>
       </td>
     </tr>
@@ -71,9 +74,8 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
           <img width="380" src="https://github.com/user-attachments/assets/70f6a1bc-3c77-4d34-ad4f-eb1b1f63b086" alt="EduKata Screenshot" />
         </p>
         <p align="center">
-          <b>Next.js · Convex · PostgreSQL · OpenAI</b><br><br>
-          Built alongside a veteran educator as part of an edtech startup.  
-          EduKata enables schools to upload CSV datasets, visualise performance trends, and surface early insights using AI.
+          <b>Next.js · Convex · PostgreSQL</b><br><br>
+          Built alongside a veteran educator as part of an edtech startup. EduKata enables schools to upload CSV datasets, visualise performance trends, and surface useful insights for teachers and school leaders.
         </p>
       </td>
     </tr>
@@ -82,4 +84,4 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
 
 ---
 
-⭐️ *I love collaborating with founders and teams who care about meaningful, user-centred software.*
+⭐️ _I enjoy working with founders and teams who care about useful, thoughtful software._
