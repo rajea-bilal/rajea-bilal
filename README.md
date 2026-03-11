@@ -10,8 +10,6 @@ I like building things that are genuinely useful, clear to use, and well thought
 
 ## 🛠 Featured Personal Projects
 
-## 🛠 Featured Personal Projects
-
 - **CliniBridge**  
   Hackathon-winning platform designed to help rare-disease patients find relevant clinical trials using AI-assisted matching from patient descriptions.  
   **Tech:** React, TanStack Start, Convex, Cloudflare, clinicaltrials.gov API  
