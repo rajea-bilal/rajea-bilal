@@ -36,7 +36,7 @@ Designing with Illustrator, exploring architecture, photography, and reading wid
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">Work Experience</h2>
 
 <div align="center">
   <table>
