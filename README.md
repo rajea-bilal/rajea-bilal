@@ -14,7 +14,7 @@ I like building things that are genuinely useful, clear to use, and well thought
   
   Hackathon-winning platform designed to help rare-disease patients find relevant clinical trials using AI-assisted matching from patient descriptions.  
   **Tech:** React, TanStack Start, Convex, Cloudflare, clinicaltrials.gov API
-  **Links:** [Repo](#https://github.com/rajea-bilal/dale-carnegie-ai) · [Live Demo](#https://dale-carnegie-ai.vercel.app/)
+  **Links:** [Repo](https://github.com/rajea-bilal/dale-carnegie-ai) · [Live Demo](https://dale-carnegie-ai.vercel.app/)
 
 - **Dale Carnegie AI Platform**  
 
