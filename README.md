@@ -10,7 +10,7 @@ I like building things that are genuinely useful, clear to use, and well thought
 
 ## 🛠 Featured Personal Projects
 
-- **BunnyPunch**
+- **BunnyPunch** <br />
   Playful camera-based browser game that turns your real hand into the controller using live webcam tracking, letting user move a cursor and punch bunnies in real time. Built as an   interactive experiment in hand tracking, collision detection, and React performance.
   **Tech**: React, JavaScript, Google MediaPipe Hand Landmarker, Howler.js, Webcam API, requestAnimationFrame
   **Links** [Repo](https://github.com/rajea-bilal/bunny_punch) · [Live Demo](https://bunny-punch.vercel.app/)
