@@ -10,6 +10,14 @@ I like building things that are genuinely useful, clear to use, and well thought
 
 ## 🛠 Featured Personal Projects
 
+- **Inkpot Intelligence** <br />
+  Full-stack AI chat platform with JWT authentication and email verification, 
+  persistent multi-turn conversations powered by LangChain, real-time messaging 
+  via Socket.IO, and web search via Tavily API.
+  **Tech**: React, Redux, LangChain, Node.js, Express, 
+  MongoDB, Socket.IO, Tavily API, Nodemailer
+  **Links** [Repo](https://github.com/rajea-bilal/inkpot)
+
 - **BunnyPunch** <br />
   Playful camera-based browser game that turns your real hand into the controller using live webcam tracking, letting user move a cursor and punch bunnies in real time. Built as an   interactive experiment in hand tracking, collision detection, and React performance.
   **Tech**: React, JavaScript, Google MediaPipe Hand Landmarker, Howler.js, Webcam API, requestAnimationFrame
