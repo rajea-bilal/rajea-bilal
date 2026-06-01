@@ -14,8 +14,7 @@ I like building things that are genuinely useful, clear to use, and well thought
   Full-stack AI chat platform with JWT authentication and email verification, 
   persistent multi-turn conversations powered by LangChain, real-time messaging 
   via Socket.IO, and web search via Tavily API.
-  **Tech**: React, Redux, LangChain, Node.js, Express, 
-  MongoDB, Socket.IO, Tavily API, Nodemailer
+  **Tech**: React, Redux, LangChain, Node.js, Express, MongoDB, Socket.IO, Tavily API, Nodemailer
   **Links** [Repo](https://github.com/rajea-bilal/inkpot)
 
 - **BunnyPunch** <br />
