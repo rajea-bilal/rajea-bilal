@@ -11,7 +11,7 @@ I like building things that are genuinely useful, clear to use, and well thought
 ## 🛠 Featured Personal Projects
 
 - **Inkpot Intelligence** <br />
-  An AI chat app that remembers your conversation, searches the web in real time, and can send emails, all from one place. Messages arrive via a live connection, and your account is protected with secure login and email verification. Powered by a LangChain backend that connects the AI to external tools.
+  An AI chat app that remembers your conversation, searches the web in real time, and can send emails, all from one place. Messages arrive via a live connection, and your account is protected with secure login and email verification. Powered by a LangChain backend that connects the AI to external tools. <br />
   **Tech**: React, Redux, LangChain, Node.js, Express, MongoDB, Socket.IO, Tavily API, Nodemailer <br />
   **Links** [Repo](https://github.com/rajea-bilal/inkpot)
 
